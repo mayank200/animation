@@ -1,2 +1,2 @@
 # animation
-this program shows the use of animation in an android app
+This android app shows the use of animations.
